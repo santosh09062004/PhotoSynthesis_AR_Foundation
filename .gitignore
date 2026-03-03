@@ -1,3 +1,4 @@
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,10 +6,10 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
-QCAR/
-
 .vs/
 .vscode/
 *.csproj
 *.sln
 .vsconfig
+ServerData/
+Packages/com.atteneder.gltfast/
